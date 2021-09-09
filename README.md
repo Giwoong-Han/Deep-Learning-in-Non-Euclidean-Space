@@ -1,3 +1,3 @@
-# Deep Learning in Non-Euclidean-Space
+# Deep Learning in Non-Euclidean Space
 
 ## 1. Paper Review
