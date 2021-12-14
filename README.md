@@ -2,4 +2,4 @@
 
 ## 1. My Paper
 
-> * Graph Embedding in Non-Euclidean Space [2021 Neurocomputing Under revision]
+> * Graph Embedding in Non-Euclidean Space [2021 Neurocomputing Under Revision]
